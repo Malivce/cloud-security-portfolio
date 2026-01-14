@@ -15,3 +15,4 @@ Amazon S3 is an object storage service commonly used to store application data, 
 
 ## Security mindset
 S3 security is primarily about configuration. Most S3-related incidents are caused by human error, not AWS service failures.
+Public access allows anyone on the internet to read S3 objects without authentication and is a common cause of data breaches.
